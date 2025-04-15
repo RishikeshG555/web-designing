@@ -1,0 +1,36 @@
+.box
+{
+    width: 50%;
+    height: 200px;
+    background-color: aquamarine;
+    border: 2px double palevioletred;
+}
+
+#box1
+{
+    text-align: left;
+    word-spacing: 55px;
+    font-size: 25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 900;
+
+}
+
+#box2
+{
+    text-align: right;
+    letter-spacing: 55px;
+
+}
+
+#box3
+{
+    text-align: center;
+    line-height: 55px;
+}
+
+#box4
+{
+    text-align: justify;
+    
+}

@@ -1,0 +1,17 @@
+@media screen  and (max-width:1200px) {
+
+    body 
+    {
+        background-color: purple;
+    }
+    
+}
+
+@media screen  and (max-width:900px) {
+
+    body 
+    {
+        background-color: rgba(128, 0, 128, 0.559);
+    }
+    
+}
