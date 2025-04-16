@@ -1,0 +1,25 @@
+.box
+{
+    background-color: purple;
+    width: 250px;
+    height: 250px;
+    padding: 25px;
+}
+
+.box {
+    background-color: greenyellow;
+    padding: 0px 20px 10px;
+    height: 250px;
+    text-indent: 50px;
+    overflow:auto;
+    text-decoration: 2px line-through overline red;
+}
+
+a{
+    text-decoration: none;
+}
+
+ul{
+    list-style-type: none;
+    
+   }
