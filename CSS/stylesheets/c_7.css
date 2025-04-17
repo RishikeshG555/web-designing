@@ -1,0 +1,23 @@
+.photo-container
+{
+    width: 1000px;
+    height: 1000px;
+    display: grid ;
+    border: 2px solid red;
+    grid-template-columns:3fr 5fr 6fr;
+    grid-gap:35px;
+   
+}
+
+.photo{
+    border: 3px solid green;
+    border-radius:25px ;
+    background-image: url(../R.jpeg);
+    background-position: 50%;
+}
+
+.photo1
+{
+  grid-row-start: 1;  
+  grid-row-end: 5;
+}
